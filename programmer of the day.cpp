@@ -21,6 +21,5 @@ int main(){
         }
         else cout<<"13.09."<<y<<endl;
     }
-    // your code goes here
     return 0;
 }
